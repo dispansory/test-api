@@ -1,4 +1,4 @@
 export const environment = {
   production: true,
-  api_url: "https://test-api.pages.dev/api"
+  api_url: "https://rest-api-test-back.herokuapp.com/api"
 };
