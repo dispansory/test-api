@@ -1,0 +1,7 @@
+
+{
+  "env": {
+    "MONGO_ATLAS_PASSWORD": "Cluster-00",
+    "JWT_SECRET_KEY": "secret_this_should_be_longer"
+  }
+}
